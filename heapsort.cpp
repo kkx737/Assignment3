@@ -1,3 +1,6 @@
+//Name: Kaushal Kharchariya
+//STDID: 200436187
+
 #include <iostream>
 using namespace std;
  
